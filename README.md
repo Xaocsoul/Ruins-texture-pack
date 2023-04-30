@@ -1,2 +1,2 @@
-# illuminator pixels
-replaces illuminator with a beeg 1x1 pixel
+# ca texture pack
+texture pack for the ca rp server
