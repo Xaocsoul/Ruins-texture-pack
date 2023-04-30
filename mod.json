@@ -1,0 +1,9 @@
+{
+	"name": "illuminator-pixels",
+	"displayName": "illuminator-pixels",
+	"author":"kloud",
+	"description": ".",
+	"version": "1.4",
+	"minGameVersion": 140,
+	"hidden": true
+}
