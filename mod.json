@@ -1,7 +1,7 @@
 {
 	"name": "CA-texture-pack",
 	"displayName": "ca-texture-pack",
-	"author":"bloop",
+	"author":"bloop and rogl",
 	"description": "changes some sprite so they are better for rps",
 	"version": "1.4",
 	"minGameVersion": 140,
