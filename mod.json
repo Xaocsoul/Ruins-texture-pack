@@ -1,8 +1,8 @@
 {
-	"name": "illuminator-pixels",
-	"displayName": "illuminator-pixels",
-	"author":"kloud",
-	"description": ".",
+	"name": "CA-texture-pack",
+	"displayName": "ca-texture-pack",
+	"author":"bloop",
+	"description": "changes some sprite so they are better for rps",
 	"version": "1.4",
 	"minGameVersion": 140,
 	"hidden": true
