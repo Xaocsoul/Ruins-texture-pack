@@ -1,8 +1,8 @@
 {
-	"name": "CA-texture-pack",
-	"displayName": "ca-texture-pack",
+	"name": "rainworld-ruins",
+	"displayName": "rainworld-ruins",
 	"author":"bloop and rogl",
-	"description": "changes some sprite so they are better for rps",
+	"description": "for the rainworld ruins rp",
 	"version": "1.4",
 	"minGameVersion": 140,
 	"hidden": true
