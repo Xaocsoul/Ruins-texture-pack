@@ -1,2 +1,2 @@
-# ca texture pack
-texture pack for the ca rp server
+# rainworld ruins
+changes the look of blocks for ca server rp (rainworld ruins)
